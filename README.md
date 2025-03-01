@@ -1,1 +1,2 @@
 # Customer-Segmentation
+I conducted this study to better understand customer segmentation and improve my skills in machine learning. I learned new things and also gained new insights into what I already knew. I reached this information by trying to find answers to things I did not understand or was unfamiliar with. I also wrote down the results and some questions under the codes, both as notes and to make them easily accessible if I want to review them later.
